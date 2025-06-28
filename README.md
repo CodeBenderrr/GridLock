@@ -3,6 +3,10 @@
 A fully featured **Tic Tac Toe game** built with **Java Swing**, allowing two players to play multiple rounds with name, symbol, and theme customization.
 
 ---
+![Gameplay Screenshot](assets/3.jpeg)
+![Gameplay Screenshot](assets/2.jpeg)
+![Gameplay Screenshot](assets/1.jpeg)
+![Gameplay Screenshot](assets/4.jpeg)
 
 ## 🖥️ Features
 
